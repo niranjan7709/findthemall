@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cjflbcnu3dip5"
+path="res://.godot/imported/Cancel.wav-0aee38245b87743ebaaaf67fff575f06.sample"
+
+[deps]
+
+source_file="res://assests/Ninja Adventure - Asset Pack/Audio/Sounds/Menu/Cancel.wav"
+dest_files=["res://.godot/imported/Cancel.wav-0aee38245b87743ebaaaf67fff575f06.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
